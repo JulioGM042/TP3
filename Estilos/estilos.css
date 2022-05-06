@@ -1,0 +1,141 @@
+body {
+  background-image: url("Indexfondo2.JPG");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+h1 {
+  color: #f7aa00;
+  font-family: "Helvetica",monospace;
+  font-size:750%;
+  text-align: center;
+}
+h2 {
+  Color:#F5A888;
+  font-family:"verdana",monospace;
+  font-size: 300%;
+  text-align: right;
+  text-decoration-line: underline;
+}
+.bajada{
+  color:#FF0F0F;
+  font-family: "arial",serif;
+  font-weight: bolder;
+  margin: auto;
+}
+.ingredientes{
+  color:#210631;
+  font-family: "arial",monospace;
+  font-weight: bolder;
+  margin: auto;
+  text-align: right;
+  text-decoration: underline;
+  font-size: 150%;
+}
+ul{
+  color:#FFB86F;
+  font-family: "verdana",monospace;
+  font-weight: lighter;
+  margin-left: 1000px;
+  text-align: right;
+}
+ol{
+  color:#FFB86F;
+  font-family: "verdana",monospace;
+  font-weight: lighter;
+  margin-right: :1000px ;
+  text-align: left;
+}
+.preparacion{
+  color:#210631;
+  font-family: "arial",monospace;
+  font-weight: bolder;
+  margin: auto;
+  text-align: left;
+  text-decoration: underline;
+  font-size: 150%
+}
+.primerajpg{
+  align-items: flex-start;
+  height: 275px;
+  width: 450px;
+}
+.segundajpg{
+  float:right;
+  width: 750px;
+  height: 400px;
+}
+p{
+  color:#FF0F0F;
+  background-color: #3C91E6;
+  font-family: "arial",serif;
+  font-weight: bolder;
+  margin: auto;
+  font-size: 120%;
+}
+.mapa{
+  vertical-align: bottom;
+  margin-left: 75px
+  }
+.video{
+  vertical-align: bottom;
+  margin-left: 75px
+}
+.lugares{
+  font-size: 125%;
+  font-weight: 250;
+}
+nav{
+  display: inline-block;
+  text-decoration: none;
+  padding-left: 300px;
+  padding-right: 100px;
+  text-align: center;
+  font-family: "Arial Unicode MS";
+  }
+.salta{
+  padding-right: 50px;
+}
+.salta:visited{
+  color:#FFB86F;
+}
+.cordillera{
+padding-right: 50px;
+}
+.cordillera:visited{
+  color:#FFB86F;
+}
+.pampa{
+padding-right: 50px;
+}
+.pampa:visited{
+  color:#FFB86F;
+}
+.litoral{
+padding-right: 50px;
+}
+.litoral:visited{
+  color:#FFB86F;
+}
+.redes{
+  text-align: center;
+  margin-left: 0px;
+}
+.redes li{
+list-style: none;
+font-size: 200%;
+display: inline-block;
+margin-right: 10px;
+}
+.contacto{
+  position:fixed;
+  width:60px;
+  height:60px;
+  line-height: 63px;
+  bottom:25px;
+  right:25px;
+  background:green;
+  color:white;
+  text-align:center;
+  font-size:50px;
+}
